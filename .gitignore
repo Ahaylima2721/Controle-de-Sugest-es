@@ -1,0 +1,29 @@
+# ---- Dados da empresa (NUNCA versionar) ----
+*.xlsx
+*.xls
+*.csv
+!sistema/equivalencias_manual.csv
+*.pkl
+base/
+entrada/
+saida/
+processados/
+
+# ---- Binários / build ----
+*.exe
+build/
+dist/
+*.spec
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ---- Local / editor ----
+.claude/settings.local.json
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini

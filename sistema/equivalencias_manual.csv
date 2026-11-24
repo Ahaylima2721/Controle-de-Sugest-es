@@ -1,0 +1,4 @@
+codigo_antigo;codigo_novo;acao
+# Uma linha por par de códigos. acao = UNIR (soma o histórico do antigo no novo) ou NAO_UNIR (bloqueia uma ligação automática).
+# Exemplo:
+# 81331R61BR;81331R61BRDSH;UNIR
